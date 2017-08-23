@@ -7,3 +7,7 @@
 <hr>
 [include](https://github.com/bedjan/manipulace/blob/master/manipulator_znaky.mdd)
 [include](https://raw.githubusercontent.com/bedjan/manipulace/master/domu.md)
+
+{markdown}
+{https://raw.githubusercontent.com/bedjan/manipulace/master/domu.mdd}
+{markdown}
