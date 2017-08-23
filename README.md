@@ -1,4 +1,6 @@
 # Manipulace
-
-[include](https://github.com/bedjan/manipulace/blob/master/domu.md)
-[include](https://github.com/bedjan/manipulace/blob/master/manipulator_znaky.md)
+<hr>
+<hr>
+[include](manipulace/domu.md)
+<hr>
+[include](manipulace/manipulator_znaky.md)
