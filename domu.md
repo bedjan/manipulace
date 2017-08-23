@@ -5,28 +5,28 @@ Motta a cit&aacute;ty: <br />
 <br />
 </strong>
 
-> &quot;Siln&iacute; lid&eacute; druh&eacute; nesr&aacute;&#382;ej&iacute;, naopak je zvedaj&iacute;. Pr&aacute;v&#283; to je d&#283;l&aacute; siln&yacute;mi.&quot;<br />
+&quot;Siln&iacute; lid&eacute; druh&eacute; nesr&aacute;&#382;ej&iacute;, naopak je zvedaj&iacute;. Pr&aacute;v&#283; to je d&#283;l&aacute; siln&yacute;mi.&quot;<br />
 <br />
-> &bdquo;Je pravdou, &#382;e se &#269;lov&#283;k u&#269;&iacute; zklam&aacute;n&iacute;m a vyv&iacute;j&iacute; utrpen&iacute;m. Pro&#269; ale zapom&iacute;nat, &#382;e tak&eacute; roste radost&iacute; a kr&aacute;sou.&ldquo;  - Paul Brunton<br />
+&bdquo;Je pravdou, &#382;e se &#269;lov&#283;k u&#269;&iacute; zklam&aacute;n&iacute;m a vyv&iacute;j&iacute; utrpen&iacute;m. Pro&#269; ale zapom&iacute;nat, &#382;e tak&eacute; roste radost&iacute; a kr&aacute;sou.&ldquo;  - Paul Brunton<br />
 <br />
-> &quot;Dej hladov&eacute;mu rybu a nasyt&iacute;&scaron; ho na jeden den. Nau&#269; ho chytat ryby a nasyt&iacute;&scaron; ho na cel&yacute; &#382;ivot.&quot;<br />
+&quot;Dej hladov&eacute;mu rybu a nasyt&iacute;&scaron; ho na jeden den. Nau&#269; ho chytat ryby a nasyt&iacute;&scaron; ho na cel&yacute; &#382;ivot.&quot;<br />
 <br />
 <br />
-> &bdquo;Nad&#283;je je nejhor&scaron;&iacute; zlo, proto&#382;e prodlu&#382;uje lidsk&eacute; utrpen&iacute;.&ldquo; - <em>Friedrich Nietzsche </em><br />
+&bdquo;Nad&#283;je je nejhor&scaron;&iacute; zlo, proto&#382;e prodlu&#382;uje lidsk&eacute; utrpen&iacute;.&ldquo; - <em>Friedrich Nietzsche </em><br />
 <br />
-> &bdquo;Nikdo nesm&iacute; zav&iacute;rat o&#269;i a myslet si, &#382;e utrpen&iacute;, od n&#283;ho&#382; se odvr&aacute;til, vlastn&#283; neexistuje.&ldquo;  - Albert Schweitzer <br />
+&bdquo;Nikdo nesm&iacute; zav&iacute;rat o&#269;i a myslet si, &#382;e utrpen&iacute;, od n&#283;ho&#382; se odvr&aacute;til, vlastn&#283; neexistuje.&ldquo;  - Albert Schweitzer <br />
 <br />
-> &quot;Manipulace je jak&eacute;koli &uacute;mysln&eacute; zach&aacute;zen&iacute; s druh&yacute;mi jako s ne&#382;iv&yacute;mi v&#283;cmi a ignorov&aacute;n&iacute; jejich v&#367;le a/nebo v&#283;dom&iacute;.&nbsp; (utilit&aacute;rn&iacute; = hled&iacute;c&iacute; na prosp&#283;ch, <br />
+&quot;Manipulace je jak&eacute;koli &uacute;mysln&eacute; zach&aacute;zen&iacute; s druh&yacute;mi jako s ne&#382;iv&yacute;mi v&#283;cmi a ignorov&aacute;n&iacute; jejich v&#367;le a/nebo v&#283;dom&iacute;.&nbsp; (utilit&aacute;rn&iacute; = hled&iacute;c&iacute; na prosp&#283;ch, <br />
 instrument&aacute;ln&iacute; =n&aacute;stroj k dosa&#382;en&iacute; n&#283;&#269;eho )&quot;<br />
 <br />
-> &quot;Manipulace je v&#382;dy v&#283;dom&yacute; (korov&yacute;) proces a je c&iacute;len&yacute; a zam&#283;&#345;en&yacute; na<br />
+&quot;Manipulace je v&#382;dy v&#283;dom&yacute; (korov&yacute;) proces a je c&iacute;len&yacute; a zam&#283;&#345;en&yacute; na<br />
 ob&#283;&#357;, inherentn&#283; (neodd&#283;liteln&#283;) proto tak logick&yacute;, jak je inteligentn&iacute; manipul&aacute;tor.&quot;<br />
 <br />
-> &quot;Zlozvyk manipulovat p&#345;edstavuje citovou retardaci dosp&#283;l&yacute;ch, kte&#345;&iacute;<br />
+&quot;Zlozvyk manipulovat p&#345;edstavuje citovou retardaci dosp&#283;l&yacute;ch, kte&#345;&iacute;<br />
 ustrnuli na citov&#283; ni&#382;&scaron;&iacute;ch stupn&iacute;ch v&yacute;voje d&iacute;ky neurotick&eacute;mu &#269;i<br />
 psychopatick&eacute;mu v&yacute;chovn&eacute;mu prost&#345;ed&iacute;.&quot;<br />
 <br />
-> &quot;Manipul&aacute;to&#345;i maj&iacute; sklon k moralizov&aacute;n&iacute;, distribuci (roz&scaron;i&#345;ov&aacute;n&iacute;, d&#283;len&iacute;) viny.&quot;<br />
+&quot;Manipul&aacute;to&#345;i maj&iacute; sklon k moralizov&aacute;n&iacute;, distribuci (roz&scaron;i&#345;ov&aacute;n&iacute;, d&#283;len&iacute;) viny.&quot;<br />
 <br />
 <p><strong>Vedle emoc&iacute; zneu&#382;&iacute;vaj&iacute; manipul&aacute;to&#345;i soci&aacute;ln&#283; dan&eacute; principy  ovliv&#328;ov&aacute;n&iacute; (soci&aacute;ln&iacute; instinkty). &Scaron;est t&#283;chto princip&#367; identifikoval  americk&yacute; psycholog R. Cialdini. Jsou to tyto:</strong></p>
 <ol>
