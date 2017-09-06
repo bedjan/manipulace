@@ -327,6 +327,5 @@ Dodr&#8203;ov&aacute;n&iacute;m z&aacute;sad asertivity &#269;lov&#283;k zv&yacu
 na druh&yacute;ch, bude s&aacute;m sebe vn&iacute;mat jako hodnotn&eacute;ho &#269;lov&#283;ka nehled&#283; na to co se mu kdo sna&#8203;&iacute;<br />
 <br />
 vsugerovat. &#268;lov&#283;k je tedy otev&#345;en&#283;j&#8203;&iacute;, vyrovnan&#283;j&#8203;&iacute; a m&aacute; pozitivn&#283;j&#8203;&iacute; p&#345;&iacute;stup k sob&#283;, sv&eacute;mu okol&iacute; a<br />
-v&#367;bec k &#8203;ivotu.<br />
+v&#367;bec k životu.<br />
 &lt;*&gt;<br />
-<br /><br /><br /><br /><hr><TABLE width="100%" align="center"><TR><TD><a name="comment"></a><b>Comments on this page:</b><br><TABLE width="100%"><TR><TD width="100%"><I>Comment posted by <b>ACrafGataroamb</b>, <span class="localtime" data-template="[m]/[d]/[Y] at [g]:[i][a]" data-timestamp="1503623995000">08/25/2017 at 1:19am (UTC)</span>:</I><br> This condition is very limited to the reproductive system and might have several causes for example a result of injury or abnormal the flow of blood in the testicles.  He is content, and the complete opposite of what we think final years has in store for us.</TD></TR></TABLE><hr></TD></TR></TABLE><br>			<br>
