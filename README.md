@@ -3,7 +3,7 @@
 
 <ul id="nav">
 <li class="nav_element" id="nav_Dom">
-<a href="/Dom%26%23367%3B.htm" class="menu">Dom&#367;</a></li>
+<a href="/domu.md" class="menu">Dom&#367;</a></li>
 <li class="nav_element" id="nav_Manipultorznakyobrana">
 <a href="/Manipul%E1tor-_-znaky%2C-obrana%2C-.--.--.-.htm" class="menu">Manipul&#225;tor - znaky, obrana,...</a></li>
 <li class="nav_element" id="nav_Jakpoznatmanipultora">
