@@ -1,0 +1,249 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+        <!-- The banner cannot be hidden. You can position it via CSS wherever you like. The only condition is, it has to be completely visible in the top 1,000 pixel of your website. -->
+        <style type="text/css">
+            <!--
+                #webme_sky_ad {
+                    position: absolute;
+                    right: 5px;
+                    top: 0px;
+                    z-index: 1000000000000000000; 
+                }
+                #webme_footer_textlink_dont_hide {
+z-index: 10000;
+color: white;
+background-color: black;
+}            //-->
+        </style>    
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
+		        <script type="text/javascript">
+        var dateTimeOffset = new Date().getTimezoneOffset();
+        
+        (function () {
+            var onload = function () {
+                var elementArray = [];
+                
+                if (document.getElementsByClassName) {
+                    elementArray = document.getElementsByClassName("localtime");
+                } else {
+                    var re = new RegExp('(^| )localtime( |$)');
+                    var els = document.getElementsByTagName("*");
+                    for (var i=0,j=els.length; i<j; i++) {
+                        if (re.test(els[i].className))
+                            elementArray.push(els[i]);
+                    }
+                }
+                
+                for (var i = 0; i < elementArray.length; i++) {    
+                    var timeLocal = new Date(parseInt(elementArray[i].getAttribute("data-timestamp")));
+                    var hour = timeLocal.getHours();
+                    var ap = "am";
+                    if (hour > 11) {
+                        ap = "pm";
+                    }
+                    else if (hour > 12) {
+                        hour = hour - 12;
+                    }
+                    
+                    var string = elementArray[i].getAttribute("data-template");
+                    string = string.replace("[Y]", timeLocal.getFullYear());
+                    string = string.replace("[m]", ('0' + (timeLocal.getMonth() + 1)).slice(-2));
+                    string = string.replace("[d]", ('0' + timeLocal.getDate()).slice(-2));
+                    string = string.replace("[H]", ('0' + timeLocal.getHours()).slice(-2));
+                    string = string.replace("[g]", ('0' + hour).slice(-2));
+                    string = string.replace("[i]", ('0' + timeLocal.getMinutes()).slice(-2));
+                    string = string.replace("[s]", ('0' + timeLocal.getSeconds()).slice(-2));
+                    string = string.replace("[a]", ap);
+                    elementArray[i].childNodes[0].nodeValue = string;
+                }
+            };
+            
+            if (window.addEventListener)
+                window.addEventListener("DOMContentLoaded", onload);
+            else if (window.attachEvent)
+                window.attachEvent("onload", onload);
+        })();
+        </script><link rel="canonical" href="https://manipulace.page.tl/Manipulace-_-z-webu.htm" />
+<link href="https://wtheme.webme.com/img/main/ios_icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://wtheme.webme.com/img/main/ios_icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="https://wtheme.webme.com/img/main/ios_icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="https://wtheme.webme.com/img/main/ios_icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<meta property="og:title" content="manipulace - Manipulace - z webu" />
+<meta property="og:image" content="https://theme.webme.com/designs/css-only/screen.jpg" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-48793753-2']);
+  _gaq.push(['_setCustomVar',
+      1,
+      'package',
+      'free',
+      3
+   ]);
+_gaq.push(['_setCustomVar',
+      2,
+      'design',
+      'css-only',
+      3
+   ]);
+_gaq.push(['_setCustomVar',
+      3,
+      'module',
+      'false',
+      3
+   ]);
+_gaq.push(['_setCustomVar',
+      4,
+      'afa',
+      'unchecked',
+      3
+   ]);
+_gaq.push(['_setCustomVar',
+      5,
+      'll',
+      '2M',
+      3
+   ]);
+
+  _gaq.push (['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'page.tl']);  
+  _gaq.push(['_setAllowLinker', true]);  
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		<title>manipulace - Manipulace - z webu</title>
+			</head>
+	<body id="hpb_cssonly">
+		                    <style type="text/css">
+            #ad-a87f br {
+                            display: none;
+                    }
+                    </style>
+                    <table height="102" id="ad-a87f">
+                        <tr>
+                            <td height="102">
+                                <IFRAME FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" WIDTH="728" HEIGHT="90" SRC="//fcdn.webme.com/selfpromotion.php?size=siebenhundertachtundzwanzig"></IFRAME>
+                            </td>
+                        </tr>
+                    </table>
+		<div id="container">
+			<div id="header_container">
+				<div id="pre_header"></div>
+				<div class="header"><h1 id="header"><span>manipulace</span></h1></div>
+				<div id="post_header"></div>
+			</div>
+			<div id="nav_container">
+			<h2 id="nav_heading"><span><!-- <img src="https://thumb.ibb.co/h4dGxk/aum_design_thing_by_cellardoor13.jpg" alt="logo" /> --></span></h2>
+				<ul id="nav">
+<li class="nav_element" id="nav_Dom">
+<a href="/Dom%26%23367%3B.htm" class="menu">Dom&#367;</a></li>
+<li class="nav_element" id="nav_Manipultorznakyobrana">
+<a href="/Manipul%E1tor-_-znaky%2C-obrana%2C-.--.--.-.htm" class="menu">Manipul&#225;tor - znaky, obrana,...</a></li>
+<li class="nav_element" id="nav_Jakpoznatmanipultora">
+<a href="/Jak-poznat-manipul%E1tora-f-.htm" class="menu">Jak poznat manipul&#225;tora?</a></li>
+<li class="nav_element" id="nav_Kdomanipuluje">
+<a href="/Kdo-manipuluje.htm" class="menu">Kdo manipuluje</a></li>
+<li class="nav_element" id="nav_Manipulacejenefrovzpsobchovnajednn">
+<a href="/Manipulace-je-nef-e2-rov%FD-zp%26%23367%3Bsob-chov%E1n%ED-a-jedn%E1n%ED.htm" class="menu">Manipulace je nef&#233;rov&#253; zp&#367;sob chov&#225;n&#237; a jedn&#225;n&#237;</a></li>
+<li class="nav_element" id="nav_Manipulanmanvry">
+<a href="/Manipula%26%23269%3Bn%ED-man-e2-vry.htm" class="menu">Manipula&#269;n&#237; man&#233;vry</a></li>
+<li class="nav_element" id="nav_Blokada">
+<a href="/Blokada.htm" class="menu">Blokada</a></li>
+<li class="nav_element" id="nav_Obrana">
+<a href="/Obrana.htm" class="menu">Obrana</a></li>
+<li class="nav_element" id="nav_Asertivita">
+<a href="/Asertivita.htm" class="menu">Asertivita</a></li>
+<li class="nav_element" id="nav_Manipulacevlsce">
+<a href="/Manipulace-v-l%E1sce.htm" class="menu">Manipulace v l&#225;sce</a></li>
+<li class="nav_element" id="nav_Manipulacevenickmprojevu">
+<a href="/Manipulace-v-%26%23345%3Be%26%23269%3Bnick-e2-m-projevu.htm" class="menu">Manipulace v &#345;e&#269;nick&#233;m projevu</a></li>
+<li class="nav_element checked_menu" id="nav_Manipulacezwebu">
+<a href="/Manipulace-_-z-webu.htm" class="menu">Manipulace - z webu</a></li>
+<li class="nav_element" id="nav_Manipulaceknihy">
+<a href="/Manipulace-_-knihy.htm" class="menu">Manipulace - knihy</a></li>
+<li class="nav_element" id="nav_Manipulacetokstup">
+<a href="/Manipulace-_-%FAtok%2C-%FAstup.htm" class="menu">Manipulace - &#250;tok, &#250;stup</a></li>
+<li class="nav_element" id="nav_Rozhovor">
+<a href="/Rozhovor.htm" class="menu">Rozhovor</a></li>
+<li class="nav_element" id="nav_Spojky">
+<a href="/Spojky.htm" class="menu">Spojky</a></li>
+<li class="nav_element" id="nav_Ostatn">
+<a href="/Ostatn%ED.htm" class="menu">Ostatn&#237;</a></li>
+<li class="nav_element" id="nav_Kontakt">
+<a href="/Kontakt.htm" class="menu">Kontakt</a></li>
+<li class="nav_element" id="nav_Admin">
+<a href="/Admin.htm" class="menu">Admin</a></li>
+				</ul>
+			</div>
+			<div id="content_container">
+				<div id="pre_content"></div>
+				<div id="content">
+					<h2 id="title"><span>Manipulace - z webu</span></h2>
+					<p><a rel="nofollow" title="http://www.laska-vztahy-duse.cz/manipulace-a-obrana-proti-ni/" target="_blank" class="urlextern" href="http://www.laska-vztahy-duse.cz/manipulace-a-obrana-proti-ni/">http://www.laska-vztahy-duse.cz/manipulace-a-obrana-proti-ni/</a></p>
+<p><a rel="nofollow" title="http://druidova.mysteria.cz/UVAHY_A_ZAMYSLENI/manipulace.htm" target="_blank" class="urlextern" href="http://druidova.mysteria.cz/UVAHY_A_ZAMYSLENI/manipulace.htm">http://druidova.mysteria.cz/UVAHY_A_ZAMYSLENI/manipulace.htm</a></p>
+<p><a rel="nofollow" title="http://www.spektrumzdravi.cz/manipulace-ve-vztahu-jak-se-branit-manipulatorovi" target="_blank" class="urlextern" href="http://www.spektrumzdravi.cz/manipulace-ve-vztahu-jak-se-branit-manipulatorovi">http://www.spektrumzdravi.cz/manipulace-ve-vztahu-jak-se-branit-manipulatorovi</a></p>
+<p><a rel="nofollow" title="http://www.odyssea.cz/soubory/c_lekce/8_5.pdf" target="_blank" class="urlextern" href="http://www.odyssea.cz/soubory/c_lekce/8_5.pdf">http://www.odyssea.cz/soubory/c_lekce/8_5.pdf</a></p>
+<p><a rel="nofollow" title="http://www.sarkavavrova.cz/jak-se-branit-manipulatorovi/" target="_blank" class="urlextern" href="http://www.sarkavavrova.cz/jak-se-branit-manipulatorovi/">http://www.sarkavavrova.cz/jak-se-branit-manipulatorovi/</a></p>
+<p><a rel="nofollow" title="http://finance.idnes.cz/asertivita-obrana-proti-manipulaci-d6a-/podnikani.aspx?c=A061105_143527_zamestnani_ton" target="_blank" class="urlextern" href="http://finance.idnes.cz/asertivita-obrana-proti-manipulaci-d6a-/podnikani.aspx?c=A061105_143527_zamestnani_ton">http://finance.idnes.cz/asertivita-obrana-proti-manipulaci-d6a-/podnikani.aspx?c=A061105_143527_zamestnani_ton</a></p>
+<p><a rel="nofollow" title="https://books.google.cz/books?id=j8ZX9UL0KIAC&amp;pg=PA16&amp;lpg=PA16&amp;dq=obrana+manipulace&amp;source=bl&amp;ots=_iBBE52xv5&amp;sig=YKRMcndy6Q3-40rFOh0hp8SIj2A&amp;hl=cs&amp;sa=X&amp;ved=0ahUKEwiCvpbDjdTSAhUE1hoKHUFXCc04ChDoAQhOMAU#v=onepage&amp;q=obrana%20manipulace&amp;f=false" target="_blank" class="urlextern" href="https://books.google.cz/books?id=j8ZX9UL0KIAC&amp;pg=PA16&amp;lpg=PA16&amp;dq=obrana+manipulace&amp;source=bl&amp;ots=_iBBE52xv5&amp;sig=YKRMcndy6Q3-40rFOh0hp8SIj2A&amp;hl=cs&amp;sa=X&amp;ved=0ahUKEwiCvpbDjdTSAhUE1hoKHUFXCc04ChDoAQhOMAU#v=onepage&amp;q=obrana%20manipulace&amp;f=false">https://books.google.cz/books?id=j8ZX9UL0KIAC&amp;pg=PA16&amp;lpg=PA16&amp;dq=obrana+manipulace&amp;source=bl&amp;ots=_iBBE52xv5&amp;sig=YKRMcndy6Q3-40rFOh0hp8SIj2A&amp;hl=cs&amp;sa=X&amp;ved=0ahUKEwiCvpbDjdTSAhUE1hoKHUFXCc04ChDoAQhOMAU#v=onepage&amp;q=obrana%20manipulace&amp;f=false</a></p>
+<p><a rel="nofollow" title="http://www.jkorbel.cz/firemni-kurzy/komunikace-sebeprosazeni/efektivni-rozhovor-vyjednavani-manipulace/" target="_blank" class="urlextern" href="http://www.jkorbel.cz/firemni-kurzy/komunikace-sebeprosazeni/efektivni-rozhovor-vyjednavani-manipulace/">http://www.jkorbel.cz/firemni-kurzy/komunikace-sebeprosazeni/efektivni-rozhovor-vyjednavani-manipulace/</a></p>
+<hr />
+<p>To zn&aacute;m moc dob&#345;e&hellip; Pokud je&scaron;t&#283; &#269;lov&#283;ku zbyla trocha sebev&#283;dom&iacute; (a m&aacute; zrovna dobrou n&aacute;ladu), tak jako nej&uacute;&#269;inn&#283;j&scaron;&iacute; bych ozna&#269;ila ty zastavovac&iacute; v&yacute;roky &bdquo;Kdy&#382; mysl&iacute;&scaron;., (Nem&aacute;m co dodat., Je to uzav&#345;en&aacute; kapitola.&ldquo; apod), nebo jen &bdquo;Aha&ldquo;, &bdquo;Dob&#345;e&ldquo;. &bdquo;Tv&#367;j n&aacute;zor&ldquo;, &bdquo;Ka&#382;d&yacute; m&aacute;me sv&#367;j &uacute;hel pohledu&ldquo; &bdquo;Ka&#382;d&yacute; jsme jin&yacute;, tv&#367;j n&aacute;zor.&ldquo; &hellip;.v&yacute;roky, kdy nesr&aacute;&#382;&iacute;me, co bylo &#345;e&#269;eno, ale &bdquo;vezmeme na v&#283;dom&iacute;&ldquo; a d&aacute;me neutr&aacute;ln&iacute; odpov&#283;&#271; nevy&#382;aduj&iacute;c&iacute; dal&scaron;&iacute; reakcidespekt:pohrd&aacute;n&iacute;, opovr&#382;en&iacute;Nesm&iacute;me tak&eacute; zapomenout, &#382;e bychom si m&#283;li v&aacute;&#382;it sami sebe, sv&yacute;ch schopnost&iacute; a dovednost&iacute;. N&iacute;zk&eacute; sebev&#283;dom&iacute; m&#367;&#382;e manipul&aacute;torovi otev&#345;&iacute;t cestu do na&scaron;&iacute; du&scaron;e, manipul&aacute;tor toti&#382; na&scaron;e slab&eacute; str&aacute;nky um&iacute; dob&#345;e vyu&#382;&iacute;t ve sv&#367;j prosp&#283;ch. Kdy&#382; budeme vn&iacute;mat manipul&aacute;tora jako lep&scaron;&iacute;ho, dokonalej&scaron;&iacute;ho, chyt&#345;ej&scaron;&iacute;ho apod., bude pro n&#283;j jednodu&scaron;&scaron;&iacute; n&aacute;s v&eacute;st jeho sm&#283;rem. D&aacute;le bychom m&#283;li ovl&aacute;dat asertivn&iacute; chov&aacute;n&iacute; - um&#283;t se vymezit, nastavit si hranice, odm&iacute;tnout neadekv&aacute;tn&iacute; po&#382;adavek. Mus&iacute;me si uv&#283;domit, &#382;e m&aacute;me pr&aacute;vo &#345;&iacute;ci NE v situaci, kdy s n&#283;&#269;&iacute;m nesouhlas&iacute;me &#269;i se k n&aacute;m n&#283;kdo chov&aacute; tak, &#382;e n&aacute;m to nen&iacute; p&#345;&iacute;jemn&eacute;.  &#268;asto m&aacute; manipul&aacute;tor strach, zda mu jeho chov&aacute;n&iacute; projde a zda ho neodhal&iacute;me. Kdy&#382; mu jasn&#283; &#345;ekneme ne, odm&iacute;tneme ho, vymez&iacute;me si hranice, s&aacute;m v&#283;t&scaron;inou s manipulac&iacute; p&#345;estane &#269;i s n&aacute;mi nebude d&aacute;le v kontaktu pokra&#269;ovat. Je proto dobr&eacute; d&aacute;t manipul&aacute;torovi jasn&#283; najevo, &#382;e o jeho manipulaci v&iacute;me a &#382;e s jeho chov&aacute;n&iacute;m nesouhlas&iacute;me a nebudeme hr&aacute;t jeho hru.</p>
+<hr />
+Lze se proti manipulaci br&aacute;nit?
+<p>Manipulativn&iacute; technika &uacute;tok &ndash; &uacute;stup je nebezpe&#269;n&aacute; a obrana proti n&iacute; je velmi obt&iacute;&#382;n&aacute;. V podstat&#283; je jedin&aacute; mo&#382;nost &ndash; d&#367;sledn&#283; odkr&yacute;vat agresorovo chov&aacute;n&iacute;, ve&#345;ejn&#283; je pojmenov&aacute;vat a nenechat &#382;&aacute;dn&yacute; pokus o &uacute;tok-&uacute;stup bez pov&scaron;imnut&iacute;. Je nutn&eacute; (ale velmi obt&iacute;&#382;n&eacute;) nenechat se zahnat do defenzivy, nep&#345;ijmout roli &bdquo;obvin&#283;n&eacute;ho, kter&yacute; se h&aacute;j&iacute;&ldquo;.</p>
+<hr />
+<p>7 TIP&#366;, JAK SE BR&Aacute;NIT</p>
+<p>Bu&#271;te f&eacute;r To, &#382;e &bdquo;protivn&iacute;k&ldquo; u&#382;&iacute;v&aacute; nepovolen&eacute; zbran&#283;, neznamen&aacute;, &#382;e je mus&iacute;te u&#382;&iacute;vat i vy. Bra&#328;te se &#269;estn&yacute;m zp&#367;sobem.</p>
+<p>Odzbrojte ho! Manipul&aacute;tora doslova odzbroj&iacute;te t&iacute;m, kdy&#382; budete v komunikaci klidn&aacute; a bude z v&aacute;s vyza&#345;ovat trp&#283;livost.</p>
+<p>Uka&#382;te s&iacute;lu Vezm&#283;te mu v&iacute;tr z platech t&iacute;m, &#382;e uk&aacute;&#382;ete svoji siln&#283;j&scaron;&iacute; str&aacute;nku a m&iacute;sto &uacute;t&#283;ku vyt&aacute;hnete logick&eacute; a v&#283;cn&eacute; argumenty.</p>
+<p>Nenechte se zm&aacute;st  I kdyby na v&aacute;s zkou&scaron;el r&#367;zn&eacute; f&iacute;gle, vy si st&#367;jte si pevn&#283; za sv&yacute;m a &#345;i&#271;te se hlavou, ne citem.</p>
+<p>Ozv&#283;te se v&#269;as!  Ne&#269;ekejte, a&#382; se v s&iacute;ti manipul&aacute;tora &uacute;pln&#283; zamot&aacute;te. Postavte se mu hned, jakmile m&aacute;te dojem, &#382;e jeho zp&#367;sob komunikace nen&iacute; &#269;estn&yacute;.</p>
+<p>&#344;ekn&#283;te NE! To se snadno &#345;ekne, ale t&#283;&#382;ko ud&#283;l&aacute;. Chcete b&yacute;t mil&aacute; a nechcete nikoho urazit. Tak na to zapome&#328;te. P&#345;ece nebudete souhlasit s n&#283;&#269;&iacute;m, co je v&aacute;m proti srsti! Jestli s t&iacute;m m&aacute;te probl&eacute;m, v duchu si &#269;asto opakujte: &bdquo;Nemus&iacute;m se v&scaron;&iacute;m souhlasit a &#345;&iacute;ct ne nen&iacute; probl&eacute;m.&ldquo;</p>
+<p>M&#283;jte nadhled I kdy&#382; v&iacute;te, &#382;e se partner v komunikaci nechov&aacute;, jak by m&#283;l, sna&#382;te se hledat a nab&iacute;zet &#345;e&scaron;en&iacute; pro ob&#283; strany.</p>
+<p>V&iacute;ce na <a rel="nofollow" title="http://prozeny.blesk.cz/clanek/pro-zeny-laska-a-vztahy-vztahy/126810/manipulace-7-rad-jak-se-ji-ucinne-ubranit.html?utm_source=prozeny.blesk.cz&amp;utm_medium=copy" target="_blank" class="urlextern" href="http://prozeny.blesk.cz/clanek/pro-zeny-laska-a-vztahy-vztahy/126810/manipulace-7-rad-jak-se-ji-ucinne-ubranit.html?utm_source=prozeny.blesk.cz&amp;utm_medium=copy">http://prozeny.blesk.cz/clanek/pro-zeny-laska-a-vztahy-vztahy/126810/manipulace-7-rad-jak-se-ji-ucinne-ubranit.html?utm_source=prozeny.blesk.cz&amp;utm_medium=copy</a></p>
+<hr />
+<p>Rada prvn&iacute;: Z&#367;sta&#328;te v&#283;cn&iacute; a f&eacute;rov&iacute; Jedovat&eacute; pozn&aacute;mky, k&#345;iv&aacute; na&#345;&#269;en&iacute; a nef&eacute;rov&eacute; kroky, to v&scaron;echno dok&aacute;&#382;e &#269;lov&#283;ka rozp&aacute;lit dob&#283;la. Mnoho z n&aacute;s se pak neudr&#382;&iacute; a doty&#269;n&eacute;mu se sna&#382;&iacute; oplatit stejnou, nebo je&scaron;t&#283; tvrd&scaron;&iacute; m&#283;nou. To ov&scaron;em p&aacute;ni kou&#269;ov&eacute; nedoporu&#269;uj&iacute;: &bdquo;Nenech&aacute;vejte se nakazit taktikou, kterou pou&#382;&iacute;v&aacute; manipul&aacute;tor, nebo&#357; p&#345;esn&#283; to je jeho c&iacute;lem,&ldquo; varuj&iacute;. Naopak doporu&#269;uj&iacute; z&#367;stat u jasn&yacute;ch argument&#367;, p&#345;edkl&aacute;dat v&#283;cn&aacute; zd&#367;vodn&#283;n&iacute; a taky je vy&#382;adovat, pt&aacute;t se a naslouchat. &bdquo;Projevujte se jako nesmlouvav&#283; kooperativn&iacute; partner,&ldquo; rad&iacute;. &bdquo;Manipul&aacute;tora to bude roz&#269;ilovat, a pokud u v&aacute;s jeho jedn&aacute;n&iacute; nevyvol&aacute; k&yacute;&#382;enou reakci, tak znejist&iacute;.&ldquo; Rada druh&aacute;: Zachovejte klid Dal&scaron;&iacute; triky, jak odolat manipul&aacute;torovi</p>
+<p>pt&aacute;t se a naslouchat ignorovat a pokra&#269;ovat pou&#382;&iacute;t konkretizuj&iacute;c&iacute; trycht&yacute;&#345; aplikovat metodu p&#345;eskakuj&iacute;c&iacute; gramodesky tv&aacute;&#345;it se nech&aacute;pav&#283; zm&#283;nit perspektivu vystoupit ze situace Co&#382; se mnohem snadn&#283;ji nap&iacute;&scaron;e, ne&#382; ud&#283;l&aacute;. Je v&scaron;ak t&#345;eba si uv&#283;domit, &#382;e p&#345;edpokladem &uacute;sp&#283;chu v jak&eacute;mkoli vyjedn&aacute;v&aacute;n&iacute; je schopnost zachovat si chladnou hlavu a stoick&yacute; klid. Pokud ov&scaron;em pat&#345;&iacute;te sp&iacute;&scaron; k v&yacute;bu&scaron;n&#283;j&scaron;&iacute;m a horkokrevn&yacute;m typ&#367;m nebo se p&#345;i jak&eacute;mkoliv n&aacute;znaku tlaku hned rozpl&aacute;&#269;ete, zkuste po&#269;&iacute;tat v duchu do deseti nebo vyu&#382;&iacute;t n&#283;kterou z metod uveden&yacute;ch v boxu vpravo. Rada t&#345;et&iacute;: Sledujte sv&#367;j c&iacute;l P&#345;edpokl&aacute;d&aacute;te-li setk&aacute;n&iacute; nebo debatu s manipul&aacute;torem, je dobr&eacute; postarat se o to, abyste mu stanuli tv&aacute;&#345;&iacute; v tv&aacute;&#345; p&#345;ipraveni. U&#382; dop&#345;edu si tedy sami pro sebe ujasn&#283;te, &#269;eho chcete dos&aacute;hnout, a dr&#382;te se toho, i kdyby se &#269;erti &#382;enili. &bdquo;Soust&#345;e&#271;te se na sv&#367;j c&iacute;l,&ldquo; doporu&#269;uj&iacute; auto&#345;i knihy o manipulaci. Pokud v&scaron;ak zjist&iacute;te, &#382;e debata k ni&#269;emu nevede a v&aacute;&scaron; c&iacute;l se st&aacute;v&aacute; nere&aacute;ln&yacute;m nebo nerealizovateln&yacute;m, tak zbyte&#269;n&#283; nepl&yacute;vejte &#269;asem ani sv&yacute;mi nervy a debatu ukon&#269;ete. Rada &#269;tvrt&aacute;: Soust&#345;e&#271;te se na konkr&eacute;tn&iacute; chov&aacute;n&iacute; Lidem, kte&#345;&iacute; jsou &#269;asto vystavov&aacute;n&iacute; komunikaci s manipul&aacute;torem, se m&#367;&#382;e st&aacute;t, &#382;e manipulativn&iacute; jedn&aacute;n&iacute; o&#269;ek&aacute;vaj&iacute; i ve chv&iacute;li, kdy o n&#283; vlastn&#283; ani nejde. Typickou uk&aacute;zkou jsou situace, kdy si na &#269;lov&#283;ka, se kter&yacute;m se chyst&aacute;me diskutovat, ud&#283;l&aacute;me n&aacute;zor u&#382; dop&#345;edu a &#345;&iacute;d&iacute;me se t&iacute;m, co jsme o n&#283;m sly&scaron;eli nebo jak na n&aacute;s zap&#367;sobil. &bdquo;Rozhoduj&iacute;c&iacute; je, abychom se nesoust&#345;edili na sv&eacute; domn&#283;nky, ale na skute&#269;n&eacute; konkr&eacute;tn&iacute; chov&aacute;n&iacute; t&eacute; osoby,&ldquo; upozor&#328;uj&iacute; kou&#269;ov&eacute;. Podle nich je lep&scaron;&iacute; vych&aacute;zet z p&#345;edpokladu, &#382;e pokud se &#269;lov&#283;k, se kter&yacute;m jedn&aacute;me, chov&aacute; kooperativn&#283;, tak m&aacute; v pl&aacute;nu se s n&aacute;mi dohodnout a spolupracovat. Podle nich je dokonce dostate&#269;n&aacute; d&aacute;vka optimismu a po&#269;&aacute;te&#269;n&iacute; d&#367;v&#283;ry k lidem v&#283;t&scaron;inou p&#345;&iacute;nosn&#283;j&scaron;&iacute; ne&#382; pesimistick&aacute; ned&#367;v&#283;ra. Rada p&aacute;t&aacute;: Dejte &scaron;anci dohod&#283; Mo&#382;n&aacute; v&aacute;m to bude p&#345;ipadat p&#345;ekvapiv&eacute; nebo p&#345;inejmen&scaron;&iacute;m nelogick&eacute;, ale i debata, kter&aacute; skon&#269;ila krachem, proto&#382;e jste na&#269;apali manipul&aacute;tora na &scaron;vestk&aacute;ch (tj. zjistili jste, &#382;e s v&aacute;mi hraje ne&#269;istou hru), se je&scaron;t&#283; m&#367;&#382;e v dobr&eacute; obr&aacute;tit. Ano, m&#367;&#382;ete prost&#283; pr&aacute;sknout dve&#345;mi a rozhovor ukon&#269;it, moud&#345;ej&scaron;&iacute; ov&scaron;em je nab&iacute;dnout d&yacute;mku m&iacute;ru. Ne proto, &#382;e byste hodlali ustoupit, ale proto, aby se debata znovu otev&#345;ela, tentokr&aacute;t ov&scaron;em v&#283;cn&#283; a f&eacute;r. &bdquo;Budete se chovat kooperativn&#283;, ale z&aacute;rove&#328; protistranu p&#345;inut&iacute;te, aby tentokr&aacute;t ona ud&#283;lala krok sm&#283;rem k v&aacute;m,&ldquo; vysv&#283;tluj&iacute; odborn&iacute;ci na komunikaci. &bdquo;Nab&iacute;dka sm&iacute;ru bude patrn&#283; manipul&aacute;tora rovn&#283;&#382; iritovat. A mo&#382;n&aacute; kr&aacute;tk&yacute; okam&#382;ik iritace vyu&#382;ije k tomu, aby op&#283;t p&#345;i&scaron;el k rozumu a za&#269;al hledat spole&#269;n&eacute; v&#283;cn&#283; adekv&aacute;tn&iacute; &#345;e&scaron;en&iacute;.&ldquo; Rada &scaron;est&aacute;: Vezm&#283;te si &#269;as na rozmy&scaron;lenou &#268;asto se st&aacute;v&aacute;, &#382;e manipul&aacute;tor vyu&#382;ije va&scaron;eho p&#345;ekvapen&iacute; a vybafne na v&aacute;s po&#382;adavek, abyste ud&#283;lali n&#283;co, co ud&#283;lat nechcete. Ne&#382; v leknut&iacute; a z nedostatku protiargument&#367; p&#345;itak&aacute;te, zkuste p&#345;ehodit m&iacute;&#269;ek na druhou stranu h&#345;i&scaron;t&#283;. &bdquo;&#344;ekn&#283;te, &#382;e si to mus&iacute;te je&scaron;t&#283; rozmyslet,&ldquo; rad&iacute; psycholo&#382;ka Marta Bou&#269;kov&aacute;, jak odzbrojit manipul&aacute;tora. Z&iacute;sk&aacute;te t&iacute;m nejen &#269;as, ale tak&eacute; prostor pro nadechnut&iacute;, kter&eacute; je v komunikaci s manipuluj&iacute;c&iacute; osobou hodn&#283; d&#367;le&#382;it&eacute;. Uvid&iacute;te, &#382;e pak bude mnohem jednodu&scaron;&scaron;&iacute; &#345;&iacute;ci ne. Zdroj: <a rel="nofollow" title="http://ona.idnes.cz/jak-se-branit-manipulaci-0ws-/vztahy-sex.aspx?c=A121116_160828_vztahy-sex_job" target="_blank" class="urlextern" href="http://ona.idnes.cz/jak-se-branit-manipulaci-0ws-/vztahy-sex.aspx?c=A121116_160828_vztahy-sex_job">http://ona.idnes.cz/jak-se-branit-manipulaci-0ws-/vztahy-sex.aspx?c=A121116_160828_vztahy-sex_job</a></p>
+<hr /><br /><br /><br /><hr>			<br><b>Add comment to this page:</b><br>
+			<center>
+				<form action="Manipulace-_-z-webu.htm#comment" method="POST">
+					<table>
+						<tr style="text-align:left;"><td>Your Name:</td><td><input value="" type="text" name="modulenter[name]" style="width: 150px; "></td></tr><tr style="text-align:left;"><td>Your message:</td><td><textarea id="kommentartext" name="modulenter[text]" rows="6" style="width: 250px;  height:100px;"></textarea></td></tr>
+					</table>
+					
+<script type="text/javascript">
+function insert_smilie (code) {
+	document.getElementById('kommentartext').value += ' ' + code;
+	document.getElementById('kommentartext').focus();
+}
+</script><a href="#" class="InsertSmilie" onclick="insert_smilie(';)'); blur(this); return false;"><img src="//theme.webme.com/smiles/wink.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':)'); blur(this); return false;"><img src="//theme.webme.com/smiles/smiley.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':D'); blur(this); return false;"><img src="//theme.webme.com/smiles/cheesy.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('>:('); blur(this); return false;"><img src="//theme.webme.com/smiles/angry.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':('); blur(this); return false;"><img src="//theme.webme.com/smiles/sad.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':o'); blur(this); return false;"><img src="//theme.webme.com/smiles/shocked.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('8)'); blur(this); return false;"><img src="//theme.webme.com/smiles/cool.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('???'); blur(this); return false;"><img src="//theme.webme.com/smiles/huh.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(';-)'); blur(this); return false;"><img src="//theme.webme.com/smiles/rolleyes.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':P'); blur(this); return false;"><img src="//theme.webme.com/smiles/tongue.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':-\'); blur(this); return false;"><img src="//theme.webme.com/smiles/undecided.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':\'('); blur(this); return false;"><img src="//theme.webme.com/smiles/cry.gif" border="0" /></a><br />
+					<input type="hidden" name="mode" value="addacomment_step1">
+					<input type="submit" value="Add comment">
+				</form>
+			</center>				</div>
+				<div id="counter"><span>Today, there have been 1 visitors (28 hits) on this page!</span></div>
+				<div id="post_content"></div>
+				<div id="below_content">Copyright all people</div>				<div id="sidebar_container">
+					<h2 id="sidebar_heading"><span>Str&#225;nky o manipulaci a co s n&#237; ;-)</span></h2>
+					<div id="sidebar_content"></div>
+				</div>
+			</div>
+		</div>
+		Str&#225;nky o manipulaci		<a href="//www.own-free-website.com?utm_source=selfpromotion&amp;utm_campaign=footer&amp;utm_medium=footertextlink" target="_blank" style="font-size:15px;" id="webme_footer_textlink_dont_hide" rel="nofollow">=&gt; Do you also want a homepage for free? Then click here! &lt;=</a>						<div id="extraDiv1"><span></span></div>
+		<div id="extraDiv2"><span></span></div>
+		<div id="extraDiv3"><span></span></div>
+		<div id="extraDiv4"><span></span></div>
+		<div id="extraDiv5"><span></span></div>
+		<div id="extraDiv6"><span></span></div>
+        <!-- The banner cannot be hidden. You can position it via CSS wherever you like. The only condition is, it has to be completely visible in the top 1,000 pixel of your website. -->
+        <div id="webme_sky_ad"><IFRAME FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" WIDTH="160" HEIGHT="600" SRC="//fcdn.webme.com/selfpromotion.php?size=einhundertsechzig"></IFRAME></div>
+	</body>
+</html>
