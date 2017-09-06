@@ -31,7 +31,7 @@
 <li class="nav_element" id="nav_Manipulacetokstup">
 <a href="https://github.com/bedjan/manipulace/blob/master/manipulace_utok_ustup.md" target="_blank"  class="menu">Manipulace - &#250;tok, &#250;stup</a></li>
 <li class="nav_element" id="nav_Rozhovor">
-<a href="https://github.com/bedjan/manipulace/blob/master/rozhovor.md target="_blank"  class="menu">Rozhovor</a></li>
+<a href="https://github.com/bedjan/manipulace/blob/master/rozhovor.md" target="_blank"  class="menu">Rozhovor</a></li>
 <li class="nav_element" id="nav_Spojky">
 <a href="https://github.com/bedjan/manipulace/blob/master/spojky.md" target="_blank"  class="menu">Spojky</a></li>
 <li class="nav_element" id="nav_Ostatn">
