@@ -1,27 +1,3 @@
-		<title>manipulace - Jak poznat manipul&#225;tora?</title>
-			</head>
-	<body id="hpb_cssonly">
-		                    <style type="text/css">
-            #ad-d3d9 br {
-                            display: none;
-                    }
-                    </style>
-                    <table height="102" id="ad-d3d9">
-                        <tr>
-                            <td height="102">
-                                <IFRAME FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" WIDTH="728" HEIGHT="90" SRC="//fcdn.webme.com/selfpromotion.php?size=siebenhundertachtundzwanzig"></IFRAME>
-                            </td>
-                        </tr>
-                    </table>
-		<div id="container">
-			<div id="header_container">
-				<div id="pre_header"></div>
-				<div class="header"><h1 id="header"><span>manipulace</span></h1></div>
-				<div id="post_header"></div>
-			</div>
-			<div id="nav_container">
-			<h2 id="nav_heading"><span><!-- <img src="https://thumb.ibb.co/h4dGxk/aum_design_thing_by_cellardoor13.jpg" alt="logo" /> --></span></h2>
-				<ul id="nav">
 <li class="nav_element" id="nav_Dom">
 <a href="/Dom%26%23367%3B.htm" class="menu">Dom&#367;</a></li>
 <li class="nav_element" id="nav_Manipultorznakyobrana">
@@ -107,41 +83,3 @@
 28. P&#345;im&#283;je n&aacute;s d&#283;lat v&#283;ci, kter&eacute; bychom pravd&#283;podobn&#283; o vlastn&iacute; v&#367;li ned&#283;lali. <br />
 29. Jde za sv&yacute;mi c&iacute;li d&#367;sledn&#283;, ale na &uacute;kor druh&yacute;ch. <br />
 30. Lid&eacute;, kte&#345;&iacute; ho znaj&iacute;, o n&#283;m st&aacute;le hovo&#345;&iacute; i v jeho nep&#345;&iacute;tomnosti.</font></p>
-<div>
-<div style="color: rgb(0, 0, 0); background-color: transparent; text-align: left; text-decoration: none; border: medium none;"><br />
-&nbsp;</div>
-</div><br /><br /><br /><hr>			<br><b>Add comment to this page:</b><br>
-			<center>
-				<form action="Jak-poznat-manipul%E1tora-f-.htm#comment" method="POST">
-					<table>
-						<tr style="text-align:left;"><td>Your Name:</td><td><input value="" type="text" name="modulenter[name]" style="width: 150px; "></td></tr><tr style="text-align:left;"><td>Your message:</td><td><textarea id="kommentartext" name="modulenter[text]" rows="6" style="width: 250px;  height:100px;"></textarea></td></tr>
-					</table>
-					
-<script type="text/javascript">
-function insert_smilie (code) {
-	document.getElementById('kommentartext').value += ' ' + code;
-	document.getElementById('kommentartext').focus();
-}
-</script><a href="#" class="InsertSmilie" onclick="insert_smilie(';)'); blur(this); return false;"><img src="//theme.webme.com/smiles/wink.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':)'); blur(this); return false;"><img src="//theme.webme.com/smiles/smiley.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':D'); blur(this); return false;"><img src="//theme.webme.com/smiles/cheesy.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('>:('); blur(this); return false;"><img src="//theme.webme.com/smiles/angry.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':('); blur(this); return false;"><img src="//theme.webme.com/smiles/sad.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':o'); blur(this); return false;"><img src="//theme.webme.com/smiles/shocked.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('8)'); blur(this); return false;"><img src="//theme.webme.com/smiles/cool.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie('???'); blur(this); return false;"><img src="//theme.webme.com/smiles/huh.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(';-)'); blur(this); return false;"><img src="//theme.webme.com/smiles/rolleyes.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':P'); blur(this); return false;"><img src="//theme.webme.com/smiles/tongue.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':-\'); blur(this); return false;"><img src="//theme.webme.com/smiles/undecided.gif" border="0" /></a><a href="#" class="InsertSmilie" onclick="insert_smilie(':\'('); blur(this); return false;"><img src="//theme.webme.com/smiles/cry.gif" border="0" /></a><br />
-					<input type="hidden" name="mode" value="addacomment_step1">
-					<input type="submit" value="Add comment">
-				</form>
-			</center>				</div>
-				<div id="counter"><span>Today, there have been 1 visitors (5 hits) on this page!</span></div>
-				<div id="post_content"></div>
-				<div id="below_content">Copyright all people</div>				<div id="sidebar_container">
-					<h2 id="sidebar_heading"><span>Str&#225;nky o manipulaci a co s n&#237; ;-)</span></h2>
-					<div id="sidebar_content"></div>
-				</div>
-			</div>
-		</div>
-		Str&#225;nky o manipulaci		<a href="//www.own-free-website.com?utm_source=selfpromotion&amp;utm_campaign=footer&amp;utm_medium=footertextlink" target="_blank" style="font-size:15px;" id="webme_footer_textlink_dont_hide" rel="nofollow">=&gt; Do you also want a homepage for free? Then click here! &lt;=</a>						<div id="extraDiv1"><span></span></div>
-		<div id="extraDiv2"><span></span></div>
-		<div id="extraDiv3"><span></span></div>
-		<div id="extraDiv4"><span></span></div>
-		<div id="extraDiv5"><span></span></div>
-		<div id="extraDiv6"><span></span></div>
-        <!-- The banner cannot be hidden. You can position it via CSS wherever you like. The only condition is, it has to be completely visible in the top 1,000 pixel of your website. -->
-        <div id="webme_sky_ad"><IFRAME FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" WIDTH="160" HEIGHT="600" SRC="//fcdn.webme.com/selfpromotion.php?size=einhundertsechzig"></IFRAME></div>
-	</body>
-</html>
