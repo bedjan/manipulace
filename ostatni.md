@@ -55,10 +55,4 @@
 <p>8:  Povzbuzujte! P&#345;esv&#283;d&#269;te, &#382;e napravit chybuje snadn&eacute;, &#382;e to, co od druh&eacute;ho po&#382;adujete, m&#367;&#382;e snadno vykonat.</p>
 <p>9: Hle&#271;te, aby druh&yacute; byl &scaron;&#357;asten, m&#367;&#382;e-li u&#269;init, co si p&#345;ejete.  <br />
 <br />
-V&iacute;ce ve zdroji: <a rel="nofollow" title="https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf" target="_blank" class="urlextern" href="https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf">https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf</a></p><br /><br /><br /><hr>			<br><b>Add comment to this page:</b><br>
-			<center>
-				<form action="Ostatn%ED.htm#comment" method="POST">
-					<table>
-						<tr style="text-align:left;"><td>Your Name:</td><td><input value="" type="text" name="modulenter[name]" style="width: 150px; "></td></tr><tr style="text-align:left;"><td>Your message:</td><td><textarea id="kommentartext" name="modulenter[text]" rows="6" style="width: 250px;  height:100px;"></textarea></td></tr>
-					</table>
-					
+V&iacute;ce ve zdroji: <a rel="nofollow" title="https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf" target="_blank" class="urlextern" href="https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf">https://uloz.to/!4Srz5KqV5/dale-carnegie-jak-ziskavat-pratele-a-pusobit-na-lidi-pdf</a></p><br /><br /><br /><hr>			
